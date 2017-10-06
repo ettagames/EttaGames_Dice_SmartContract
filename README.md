@@ -1,1 +1,1 @@
-# EttaGames_Dice_SmartContract
+# Dice Smart Contract by ETTA Games.
